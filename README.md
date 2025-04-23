@@ -1,7 +1,4 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<p align="center">
-    <img src="https://raw.githubusercontent.com/NeofetchNpc/Archive-TMP/refs/heads/main/img-mp4/thumenu.png" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
 
 <h1 align="center">LinucxMD - WhatsBotz</h1>
 
@@ -23,16 +20,5 @@
 2. Don't forget give star this repo
 3. Don't use this repository wrong!
 4. If you have problem chat me in owner number
-
----------
-
-### Thanks To ( ideas and sources )
-[![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets)
-[![ShirokamiRyzen](https://github.com/ShirokamiRyzen.png?size=100)](https://github.com/ShirokamiRyzen)
-[![XM4ZE](https://github.com/XM4ZE.png?size=100)](https://github.com/XM4ZE)
-
-#### Recoder
-[![NeofetchNpc](https://github.com/NeofetchNpc.png?size=100)](https://github.com/NeofetchNpc)
-[![NeeasTooID](https://github.com/NeeasTooID.png?size=100)](https://github.com/NeeasTooID)
 
 ---------
